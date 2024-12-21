@@ -90,28 +90,28 @@ $result = executeQuery("SELECT * FROM islandsOfPersonality");
             <img src="assets/images/college.png" style="width:100%">
             <div class="w3-display-bottommiddle w3-container w3-text-black w3-padding-32 w3-hide-small">
                 <h3>College Island</h3>
-                <p><b>We had the best time playing at Venice Beach!</b></p>
+                <p><b>I dive into campus life and academic adventures.</b></p>
             </div>
         </div>
         <div class="mySlides w3-display-container w3-center">
             <img src="assets/images/foodie.png" style="width:100%">
             <div class="w3-display-bottommiddle w3-container w3-text-black w3-padding-32 w3-hide-small">
                 <h3>Foodie Island</h3>
-                <p><b>The atmosphere in New York is lorem ipsum.</b></p>
+                <p><b>I savor delicious food and culinary delights.</b></p>
             </div>
         </div>
         <div class="mySlides w3-display-container w3-center">
             <img src="assets/images/friendship.png" style="width:100%">
             <div class="w3-display-bottommiddle w3-container w3-text-black w3-padding-32 w3-hide-small">
                 <h3>Friendship Island</h3>
-                <p><b>Thank you, Chicago - A night we won't forget.</b></p>
+                <p><b>I cherish moments and build friendships.</b></p>
             </div>
         </div>
         <div class="mySlides w3-display-container w3-center">
             <img src="assets/images/scenery.png" style="width:100%">
             <div class="w3-display-bottommiddle w3-container w3-text-black w3-padding-32 w3-hide-small">
                 <h3>Scenery Island</h3>
-                <p><b>Thank you, Chicago - A night we won't forget.</b></p>
+                <p><b>I wander through stunning views and landscapes.</b></p>
             </div>
         </div>
 
